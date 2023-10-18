@@ -36,6 +36,7 @@
   "resources": [
     {"id":{"name":"spr_kaya","path":"sprites/spr_kaya/spr_kaya.yy",},},
     {"id":{"name":"spr_test","path":"sprites/spr_test/spr_test.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
