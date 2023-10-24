@@ -17,7 +17,16 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_default_dude","order":3,"path":"sprites/spr_default_dude/spr_default_dude.yy",},
     {"name":"spr_kaya","order":1,"path":"sprites/spr_kaya/spr_kaya.yy",},
-    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"spr_temp_chest_close","order":6,"path":"sprites/spr_temp_chest_close/spr_temp_chest_close.yy",},
+    {"name":"spr_temp_key","order":5,"path":"sprites/spr_temp_key/spr_temp_key.yy",},
+    {"name":"obj_key","order":2,"path":"objects/obj_key/obj_key.yy",},
+    {"name":"spr_temp_chest_open","order":7,"path":"sprites/spr_temp_chest_open/spr_temp_chest_open.yy",},
+    {"name":"spr_temp_wall","order":4,"path":"sprites/spr_temp_wall/spr_temp_wall.yy",},
+    {"name":"C_obj_Camera","order":4,"path":"objects/C_obj_Camera/C_obj_Camera.yy",},
+    {"name":"obj_chest","order":3,"path":"objects/obj_chest/obj_chest.yy",},
+    {"name":"obj_default_wall","order":1,"path":"objects/obj_default_wall/obj_default_wall.yy",},
+    {"name":"spr_temp_floor","order":2,"path":"sprites/spr_temp_floor/spr_temp_floor.yy",},
   ],
 }
