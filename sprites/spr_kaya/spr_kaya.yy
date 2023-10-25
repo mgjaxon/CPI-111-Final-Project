@@ -25,8 +25,8 @@
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "characters",
-    "path": "folders/Sprites/characters.yy",
+    "name": "CPI 111 Final Project",
+    "path": "CPI 111 Final Project.yyp",
   },
   "preMultiplyAlpha": false,
   "sequence": {

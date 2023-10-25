@@ -65,6 +65,7 @@
     {"id":{"name":"spr_death","path":"sprites/spr_death/spr_death.yy",},},
     {"id":{"name":"spr_rock2","path":"sprites/spr_rock2/spr_rock2.yy",},},
     {"id":{"name":"spr_kaya","path":"sprites/spr_kaya/spr_kaya.yy",},},
+<<<<<<< Updated upstream
     {"id":{"name":"spr_wall2","path":"sprites/spr_wall2/spr_wall2.yy",},},
     {"id":{"name":"spr_knight","path":"sprites/spr_knight/spr_knight.yy",},},
     {"id":{"name":"spr_potion1","path":"sprites/spr_potion1/spr_potion1.yy",},},
@@ -79,6 +80,24 @@
     {"id":{"name":"spr_book6","path":"sprites/spr_book6/spr_book6.yy",},},
     {"id":{"name":"spr_alchemist","path":"sprites/spr_alchemist/spr_alchemist.yy",},},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},},
+=======
+    {"id":{"name":"obj_Border","path":"objects/obj_Border/obj_Border.yy",},},
+    {"id":{"name":"spr_temp_chest_close","path":"sprites/spr_temp_chest_close/spr_temp_chest_close.yy",},},
+    {"id":{"name":"spr_temp_key","path":"sprites/spr_temp_key/spr_temp_key.yy",},},
+    {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},},
+    {"id":{"name":"spr_Border","path":"sprites/spr_Border/spr_Border.yy",},},
+    {"id":{"name":"obj_Rune","path":"objects/obj_Rune/obj_Rune.yy",},},
+    {"id":{"name":"obj_RuneLarge","path":"objects/obj_RuneLarge/obj_RuneLarge.yy",},},
+    {"id":{"name":"C_obj_Camera","path":"objects/C_obj_Camera/C_obj_Camera.yy",},},
+    {"id":{"name":"C_obj_RuneRush","path":"objects/C_obj_RuneRush/C_obj_RuneRush.yy",},},
+    {"id":{"name":"spr_RuneSpecial","path":"sprites/spr_RuneSpecial/spr_RuneSpecial.yy",},},
+    {"id":{"name":"obj_chest","path":"objects/obj_chest/obj_chest.yy",},},
+    {"id":{"name":"spr_RuneRushBoard","path":"sprites/spr_RuneRushBoard/spr_RuneRushBoard.yy",},},
+    {"id":{"name":"obj_default_wall","path":"objects/obj_default_wall/obj_default_wall.yy",},},
+    {"id":{"name":"spr_temp_floor","path":"sprites/spr_temp_floor/spr_temp_floor.yy",},},
+    {"id":{"name":"obj_default_dude","path":"objects/obj_default_dude/obj_default_dude.yy",},},
+    {"id":{"name":"spr_Rune3x1","path":"sprites/spr_Rune3x1/spr_Rune3x1.yy",},},
+>>>>>>> Stashed changes
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
