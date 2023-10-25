@@ -1,1 +1,1 @@
-sprite_index = spr_temp_chest_close
+sprite_index = spr_chest_closed

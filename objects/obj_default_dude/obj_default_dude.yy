@@ -36,8 +36,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_default_dude",
-    "path": "sprites/spr_default_dude/spr_default_dude.yy",
+    "name": "spr_povir",
+    "path": "sprites/spr_povir/spr_povir.yy",
   },
   "spriteMaskId": null,
   "visible": true,

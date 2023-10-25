@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_temp_chest_close",
-    "path": "sprites/spr_temp_chest_close/spr_temp_chest_close.yy",
+    "name": "spr_chest_closed",
+    "path": "sprites/spr_chest_closed/spr_chest_closed.yy",
   },
   "spriteMaskId": null,
   "visible": true,
