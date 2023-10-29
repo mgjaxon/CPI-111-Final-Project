@@ -19,6 +19,7 @@
     {"name":"tower_inside","order":1,"path":"folders/Sprites/tower_inside.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"tower inside","order":10,"path":"folders/Objects/tower inside.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_default_dude","order":3,"path":"sprites/spr_default_dude/spr_default_dude.yy",},
@@ -73,6 +74,7 @@
     {"name":"spr_book5","order":4,"path":"sprites/spr_book5/spr_book5.yy",},
     {"name":"spr_potion2","order":10,"path":"sprites/spr_potion2/spr_potion2.yy",},
     {"name":"spr_floor3","order":24,"path":"sprites/spr_floor3/spr_floor3.yy",},
+    {"name":"obj_wall02","order":9,"path":"objects/obj_wall02/obj_wall02.yy",},
     {"name":"spr_book7","order":6,"path":"sprites/spr_book7/spr_book7.yy",},
     {"name":"spr_book6","order":5,"path":"sprites/spr_book6/spr_book6.yy",},
     {"name":"spr_alchemist","order":1,"path":"sprites/spr_alchemist/spr_alchemist.yy",},

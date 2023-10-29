@@ -31,12 +31,13 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tower_inside","folderPath":"folders/Sprites/tower_inside.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"tower inside","folderPath":"folders/Objects/tower inside.yy",},
   ],
   "IncludedFiles": [],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.1.102",
   },
   "resources": [
     {"id":{"name":"spr_default_dude","path":"sprites/spr_default_dude/spr_default_dude.yy",},},
@@ -85,6 +86,7 @@
     {"id":{"name":"spr_book3","path":"sprites/spr_book3/spr_book3.yy",},},
     {"id":{"name":"spr_death","path":"sprites/spr_death/spr_death.yy",},},
     {"id":{"name":"spr_rock2","path":"sprites/spr_rock2/spr_rock2.yy",},},
+    {"id":{"name":"obj_bookshelf","path":"objects/obj_bookshelf/obj_bookshelf.yy",},},
     {"id":{"name":"spr_wall2","path":"sprites/spr_wall2/spr_wall2.yy",},},
     {"id":{"name":"spr_knight","path":"sprites/spr_knight/spr_knight.yy",},},
     {"id":{"name":"spr_potion1","path":"sprites/spr_potion1/spr_potion1.yy",},},
@@ -95,6 +97,7 @@
     {"id":{"name":"spr_potion2","path":"sprites/spr_potion2/spr_potion2.yy",},},
     {"id":{"name":"spr_chatbubble","path":"sprites/spr_chatbubble/spr_chatbubble.yy",},},
     {"id":{"name":"spr_floor3","path":"sprites/spr_floor3/spr_floor3.yy",},},
+    {"id":{"name":"obj_wall02","path":"objects/obj_wall02/obj_wall02.yy",},},
     {"id":{"name":"spr_book7","path":"sprites/spr_book7/spr_book7.yy",},},
     {"id":{"name":"spr_book6","path":"sprites/spr_book6/spr_book6.yy",},},
     {"id":{"name":"spr_alchemist","path":"sprites/spr_alchemist/spr_alchemist.yy",},},
@@ -104,6 +107,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
