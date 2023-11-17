@@ -1,0 +1,1 @@
+var keyState = 0;

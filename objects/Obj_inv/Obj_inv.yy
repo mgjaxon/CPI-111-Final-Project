@@ -1,9 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_key",
+  "name": "Obj_inv",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_default_dude","path":"objects/obj_default_dude/obj_default_dude.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
@@ -27,13 +26,11 @@
   "physicsShape": 1,
   "physicsShapePoints": [],
   "physicsStartAwake": true,
-  "properties": [
-    {"resourceType":"GMObjectProperty","resourceVersion":"1.0","name":"keyState","filters":[],"listItems":[],"multiselect":false,"rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"value":"0","varType":1,},
-  ],
+  "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_temp_key",
-    "path": "sprites/spr_temp_key/spr_temp_key.yy",
+    "name": "Sprite55",
+    "path": "sprites/Sprite55/Sprite55.yy",
   },
   "spriteMaskId": null,
   "visible": true,

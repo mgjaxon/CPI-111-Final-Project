@@ -24,7 +24,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": false,
+  "solid": true,
   "spriteId": {
     "name": "spr_temp_wall",
     "path": "sprites/spr_temp_wall/spr_temp_wall.yy",

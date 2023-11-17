@@ -2,7 +2,7 @@
 Uncommented view will be the one shown*/
 //!!!choose_one_and_delete_this_line_to_run!!!
 
-/*Centered on Player*/
+//Centered on Player
 var target_x = obj_default_dude.x;
 var target_y = obj_default_dude.y;
 
