@@ -1,1 +1,3 @@
-x += P_speed
+if(room == rm_level1){
+	x += P_speed
+}
