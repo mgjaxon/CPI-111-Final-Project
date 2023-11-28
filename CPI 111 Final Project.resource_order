@@ -97,6 +97,7 @@
     {"name":"spr_book7","order":6,"path":"sprites/spr_book7/spr_book7.yy",},
     {"name":"spr_book6","order":5,"path":"sprites/spr_book6/spr_book6.yy",},
     {"name":"obj_alchemist","order":13,"path":"objects/obj_alchemist/obj_alchemist.yy",},
+    {"name":"Obj_text","order":20,"path":"objects/Obj_text/Obj_text.yy",},
     {"name":"spr_alchemist","order":1,"path":"sprites/spr_alchemist/spr_alchemist.yy",},
   ],
 }

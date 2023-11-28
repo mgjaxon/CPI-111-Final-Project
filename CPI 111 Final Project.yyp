@@ -120,6 +120,7 @@
     {"id":{"name":"spr_book7","path":"sprites/spr_book7/spr_book7.yy",},},
     {"id":{"name":"spr_book6","path":"sprites/spr_book6/spr_book6.yy",},},
     {"id":{"name":"obj_alchemist","path":"objects/obj_alchemist/obj_alchemist.yy",},},
+    {"id":{"name":"Obj_text","path":"objects/Obj_text/Obj_text.yy",},},
     {"id":{"name":"spr_alchemist","path":"sprites/spr_alchemist/spr_alchemist.yy",},},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},},
     {"id":{"name":"rm_level1","path":"rooms/rm_level1/rm_level1.yy",},},
