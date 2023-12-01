@@ -1,2 +1,2 @@
 myFontSize = 16;
-myStringVariable = "A long time ago, in a land far far away, there was goblin named Povir.\nPovir had a niece named ****";
+myStringVariable = "A long time ago, in a land far far away, there was goblin named Povir.\nPovir had a niece named kaya who was kidnapped by an evil wizard. \nPovir has broken into the wizards tower and now needs to find a key to\nfree Kaya from the cage\n (Click to Continue...))";
